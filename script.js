@@ -50,7 +50,7 @@ roll.addEventListener("click", function () {
     }
   }
 });
-//holdinf the current score
+// holding the scores
 hold.addEventListener("click", function () {
   if (playing) {
     // add currrent score to active player
