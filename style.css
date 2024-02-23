@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-/*   height: 100vh; */
+  /* height: 100vh; */
   font-family: sans-serif;
   background-color: rgb(218, 133, 159);
   position: relative;
@@ -98,8 +98,8 @@ img {
   background-color: rgb(240, 192, 240);
   padding: 6px;
   position: absolute;
-  left: 43.5%;
-  bottom: 170px;
+  left: 43%;
+  bottom: 80px;
 }
 .hold {
   font-size: 24px;
@@ -110,7 +110,7 @@ img {
   padding: 6px;
   position: absolute;
   left: 45.5%;
-  bottom: 230px;
+  bottom: 140px;
 }
 .new:hover,
 .roll-dice:hover,
