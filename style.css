@@ -30,7 +30,7 @@ body {
   background-color: rgb(238, 194, 238);
   border-radius: 10px;
   position: absolute;
-  top: 4%;
+  top: 10%;
   left: 42%;
   /* transform: translate((-50%, 50%)); */
 }
