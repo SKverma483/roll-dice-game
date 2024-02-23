@@ -7,13 +7,14 @@ body {
   height: 100vh;
   font-family: sans-serif;
   background-color: rgb(218, 133, 159);
+  position: relative;
   color: rgb(16, 17, 14);
 }
 .container {
   width: 900px;
   height: 500px;
   margin: 50px auto;
-  position: relative;
+  /* position: relative; */
   border-radius: 12px;
   background-color: rgb(230, 91, 133);
   display: flex;
@@ -30,7 +31,7 @@ body {
   background-color: rgb(238, 194, 238);
   border-radius: 10px;
   position: absolute;
-  top: 60px;
+  top: 20px;
   left: 42%;
   /* transform: translate((-50%, 50%)); */
 }
@@ -97,8 +98,8 @@ img {
   background-color: rgb(240, 192, 240);
   padding: 6px;
   position: absolute;
-  left: 43%;
-  bottom: 130px;
+  left: 43.5%;
+  bottom: 170px;
 }
 .hold {
   font-size: 24px;
@@ -108,8 +109,8 @@ img {
   background-color: rgb(240, 192, 240);
   padding: 6px;
   position: absolute;
-  left: 45%;
-  bottom: 200px;
+  left: 45.5%;
+  bottom: 230px;
 }
 .new:hover,
 .roll-dice:hover,
