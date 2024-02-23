@@ -7,6 +7,9 @@ body {
   /* height: 100vh; */
   font-family: sans-serif;
   background-color: rgb(218, 133, 159);
+}
+.outer-container {
+  height: 100vh;
   position: relative;
   color: rgb(16, 17, 14);
 }
@@ -31,7 +34,7 @@ body {
   background-color: rgb(238, 194, 238);
   border-radius: 10px;
   position: absolute;
-  top: 20px;
+  top: 4%;
   left: 42%;
   /* transform: translate((-50%, 50%)); */
 }
@@ -99,7 +102,7 @@ img {
   padding: 6px;
   position: absolute;
   left: 43%;
-  bottom: 80px;
+  bottom: 28%;
 }
 .hold {
   font-size: 24px;
@@ -110,7 +113,7 @@ img {
   padding: 6px;
   position: absolute;
   left: 45.5%;
-  bottom: 140px;
+  bottom: 38%;
 }
 .new:hover,
 .roll-dice:hover,
