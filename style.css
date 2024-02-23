@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  height: 100vh;
+/*   height: 100vh; */
   font-family: sans-serif;
   background-color: rgb(218, 133, 159);
   position: relative;
