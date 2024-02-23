@@ -9,7 +9,7 @@ body {
   background-color: rgb(218, 133, 159);
 }
 .outer-container {
-  height: 100vh;
+/*   height: 100vh; */
   position: relative;
   color: rgb(16, 17, 14);
 }
